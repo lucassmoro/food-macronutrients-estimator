@@ -1,0 +1,226 @@
+{
+  "abobora": {
+    "densidade_por_cm3": 0.8,
+    "caloria_por_g": 0.5,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.108,
+    "proteina_por_g": 0.014,
+    "lipidio_por_g": 0.007
+  },
+  "almondega": {
+    "densidade_por_cm3": 1.0,
+    "caloria_por_g": 2.19,
+    "altura_media_cm": 3.0,
+    "carboidrato_por_g": 0.098,
+    "proteina_por_g": 0.123,
+    "lipidio_por_g": 0.112
+  },
+  "arroz": {
+    "densidade_por_cm3": 0.87,
+    "caloria_por_g": 1.28,
+    "altura_media_cm": 2.0,
+    "carboidrato_por_g": 0.281,
+    "proteina_por_g": 0.025,
+    "lipidio_por_g": 0.002
+  },
+  "batata": {
+    "densidade_por_cm3": 0.9,
+    "caloria_por_g": 0.52,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.123,
+    "proteina_por_g": 0.013,
+    "lipidio_por_g": 0.001
+  },
+  "beterraba": {
+    "densidade_por_cm3": 0.95,
+    "caloria_por_g": 0.32,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.063,
+    "proteina_por_g": 0.012,
+    "lipidio_por_g": 0.001
+  },
+  "brocolis": {
+    "densidade_por_cm3": 0.35,
+    "caloria_por_g": 0.25,
+    "altura_media_cm": 2.5,
+    "carboidrato_por_g": 0.044,
+    "proteina_por_g": 0.027,
+    "lipidio_por_g": 0.005
+  },
+  "carne-suina": {
+    "densidade_por_cm3": 1.03,
+    "caloria_por_g": 2.1,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.0,
+    "proteina_por_g": 0.27,
+    "lipidio_por_g": 0.12
+  },
+  "carne-vermelha": {
+    "densidade_por_cm3": 1.05,
+    "caloria_por_g": 2.19,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.0,
+    "proteina_por_g": 0.32,
+    "lipidio_por_g": 0.09
+  },
+  "cenoura": {
+    "densidade_por_cm3": 0.9,
+    "caloria_por_g": 0.3,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.043,
+    "proteina_por_g": 0.005,
+    "lipidio_por_g": 0.002
+  },
+  "couve": {
+    "densidade_por_cm3": 0.3,
+    "caloria_por_g": 0.27,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.043,
+    "proteina_por_g": 0.029,
+    "lipidio_por_g": 0.005
+  },
+  "couve-flor": {
+    "densidade_por_cm3": 0.45,
+    "caloria_por_g": 0.19,
+    "altura_media_cm": 2.0,
+    "carboidrato_por_g": 0.039,
+    "proteina_por_g": 0.012,
+    "lipidio_por_g": 0.003
+  },
+  "ervilha": {
+    "densidade_por_cm3": 0.73,
+    "caloria_por_g": 0.74,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.134,
+    "proteina_por_g": 0.05,
+    "lipidio_por_g": 0.004
+  },
+  "farofa": {
+    "densidade_por_cm3": 0.55,
+    "caloria_por_g": 4.06,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.789,
+    "proteina_por_g": 0.021,
+    "lipidio_por_g": 0.091
+  },
+  "feijao": {
+    "densidade_por_cm3": 0.79,
+    "caloria_por_g": 0.76,
+    "altura_media_cm": 0.65,
+    "carboidrato_por_g": 0.136,
+    "proteina_por_g": 0.048,
+    "lipidio_por_g": 0.005
+  },
+  "frango": {
+    "densidade_por_cm3": 1.045,
+    "caloria_por_g": 1.59,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.003,
+    "proteina_por_g": 0.297,
+    "lipidio_por_g": 0.062
+  },
+  "lentilha": {
+    "densidade_por_cm3": 0.85,
+    "caloria_por_g": 0.93,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.163,
+    "proteina_por_g": 0.063,
+    "lipidio_por_g": 0.005
+  },
+  "linguica": {
+    "densidade_por_cm3": 1.0,
+    "caloria_por_g": 2.8,
+    "altura_media_cm": 2.5,
+    "carboidrato_por_g": 0.014,
+    "proteina_por_g": 0.2,
+    "lipidio_por_g": 0.22
+  },
+  "macarrao": {
+    "densidade_por_cm3": 0.55,
+    "caloria_por_g": 1.57,
+    "altura_media_cm": 2.0,
+    "carboidrato_por_g": 0.273,
+    "proteina_por_g": 0.035,
+    "lipidio_por_g": 0.005
+  },
+  "milho": {
+    "densidade_por_cm3": 0.9,
+    "caloria_por_g": 0.98,
+    "altura_media_cm": 1.0,
+    "carboidrato_por_g": 0.186,
+    "proteina_por_g": 0.032,
+    "lipidio_por_g": 0.024
+  },
+  "ovo": {
+    "densidade_por_cm3": 1.03,
+    "caloria_por_g": 1.46,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.006,
+    "proteina_por_g": 0.133,
+    "lipidio_por_g": 0.095
+  },
+  "pao": {
+    "densidade_por_cm3": 0.29,
+    "caloria_por_g": 3.0,
+    "altura_media_cm": 3.0,
+    "carboidrato_por_g": 0.586,
+    "proteina_por_g": 0.08,
+    "lipidio_por_g": 0.031
+  },
+  "peixe": {
+    "densidade_por_cm3": 1.02,
+    "caloria_por_g": 1.28,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.0,
+    "proteina_por_g": 0.26,
+    "lipidio_por_g": 0.023
+  },
+  "pepino": {
+    "densidade_por_cm3": 0.95,
+    "caloria_por_g": 0.1,
+    "altura_media_cm": 0.5,
+    "carboidrato_por_g": 0.02,
+    "proteina_por_g": 0.007,
+    "lipidio_por_g": 0.001
+  },
+  "prato": {
+    "densidade_por_cm3": 0.0,
+    "caloria_por_g": 0.0,
+    "altura_media_cm": 0.0,
+    "carboidrato_por_g": 0.0,
+    "proteina_por_g": 0.0,
+    "lipidio_por_g": 0.0
+  },
+  "pure-batata": {
+    "densidade_por_cm3": 0.85,
+    "caloria_por_g": 1.13,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.184,
+    "proteina_por_g": 0.019,
+    "lipidio_por_g": 0.042
+  },
+  "salada": {
+    "densidade_por_cm3": 0.2,
+    "caloria_por_g": 0.17,
+    "altura_media_cm": 2.0,
+    "carboidrato_por_g": 0.032,
+    "proteina_por_g": 0.01,
+    "lipidio_por_g": 0.001
+  },
+  "tomate": {
+    "densidade_por_cm3": 0.95,
+    "caloria_por_g": 0.15,
+    "altura_media_cm": 0.8,
+    "carboidrato_por_g": 0.031,
+    "proteina_por_g": 0.011,
+    "lipidio_por_g": 0.002
+  },
+  "vegetais_verdes": {
+    "densidade_por_cm3": 0.4,
+    "caloria_por_g": 0.25,
+    "altura_media_cm": 1.5,
+    "carboidrato_por_g": 0.045,
+    "proteina_por_g": 0.02,
+    "lipidio_por_g": 0.003
+  }
+}
